@@ -9,4 +9,4 @@ This repo contains all the resources for vision language models(VLM) and large l
 - [Microsoft TorchScale](https://github.com/microsoft/torchscale)
 
 #### Efficient Transformer
-- [Flash Attention](https://tridao.me/blog/2024/flash3/)
+- [Flash Attention](https://arxiv.org/abs/2205.14135)
