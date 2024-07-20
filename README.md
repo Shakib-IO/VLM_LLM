@@ -7,3 +7,6 @@ This repo contains all the resources for vision language models(VLM) and large l
 - [ChatPDF](https://www.chatpdf.com/)
 - [Microsoft Unlim](https://github.com/microsoft/unilm)
 - [Microsoft TorchScale](https://github.com/microsoft/torchscale)
+
+#### Efficient Transformer
+- [Flash Attention](https://tridao.me/blog/2024/flash3/)
