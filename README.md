@@ -7,7 +7,7 @@ This repo contains all the resources for vision language models(VLM) and large l
 - [ChatPDF](https://www.chatpdf.com/)
 - [Microsoft Unlim](https://github.com/microsoft/unilm)
 - [Microsoft TorchScale](https://github.com/microsoft/torchscale)
-- [Multimodality and Large Multimodal Models (LMMs) by Chip Huye](https://huyenchip.com/2023/10/10/multimodal.html)
+- [Multimodality and Large Multimodal Models (LMMs) by Chip Huyen](https://huyenchip.com/2023/10/10/multimodal.html)
 - [Generalized Visual Language Models](https://lilianweng.github.io/posts/2022-06-09-vlm/)
 
 #### Efficient Transformer
